@@ -15,12 +15,12 @@ I'm also a part of "**Kodkollektivet i Kalmar**" which is a student organization
 ⚡ In my free time I like to go to the gym and watch movies.
 
 <p>
-<a target="_blank" href="https://www.linkedin.com/in/vonzweigbergksamuel">  <img src="https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"  /></a>
+<a target="_blank" href="https://www.linkedin.com/in/vonzweigbergksamuel">  <img src="https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo" height="25" /></a>
 <a target="_blank" href="https://discordapp.com/users/605840898537947143">
-  <img src="https://img.shields.io/static/v1?message=discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="discord logo"  /></a>
-<a target="_blank" href="https://www.instagram.com/vonzweigbergksamuel" style="display: inline-block;">  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo"  /></a>
+  <img src="https://img.shields.io/static/v1?message=discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="discord logo" height="25" /></a>
+<a target="_blank" href="https://www.instagram.com/vonzweigbergksamuel" style="display: inline-block;">  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo" height="25" /></a>
 <a target="_blank" href="mailto:samuelvonzweigbergk.s@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"  /></a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo" height="25" /></a>
 </p>
 
 <br>
