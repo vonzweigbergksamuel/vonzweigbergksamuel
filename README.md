@@ -74,8 +74,8 @@ My name is Samuel von Zweigbergk and I'm a Software Developer and 2nd year stude
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vonzweigbergksamuel/vonzweigbergksamuel/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vonzweigbergksamuel/vonzweigbergksamuel/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vonzweigbergksamuel/vonzweigbergksamuel/output/github-snake.svg" />
 </picture>
 
