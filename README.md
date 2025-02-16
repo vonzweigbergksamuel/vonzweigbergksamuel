@@ -19,15 +19,6 @@ My name is Samuel von Zweigbergk and I'm a Software Developer and 2nd year stude
 
 <br>
 
-<p>
-<a target="_blank" href="https://www.linkedin.com/in/vonzweigbergksamuel">  <img src="https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-<a target="_blank" href="">
-  <img src="https://img.shields.io/static/v1?message=discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
-<a target="_blank" href="https://www.instagram.com/vonzweigbergksamuel" style="display: inline-block;">  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
-<a target="_blank" href="mailto:samuelvonzweigbergk.s@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
-</p>
-
 ## About me
 
 💼 Currently working on my own 2d platformer game in the Godot Engine, and a few other projects. I'm also studying Web Development at Linnaeus University in Kalmar, Sweden.
@@ -37,6 +28,17 @@ My name is Samuel von Zweigbergk and I'm a Software Developer and 2nd year stude
 <br>
 
 ⚡ In my free time I like to go to the gym, watch movies and make websites for local businesses.
+
+<br>
+
+<p>
+<a target="_blank" href="https://www.linkedin.com/in/vonzweigbergksamuel">  <img src="https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+<a target="_blank" href="https://discordapp.com/users/605840898537947143">
+  <img src="https://img.shields.io/static/v1?message=discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
+<a target="_blank" href="https://www.instagram.com/vonzweigbergksamuel" style="display: inline-block;">  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
+<a target="_blank" href="mailto:samuelvonzweigbergk.s@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
+</p>
 
 <br>
 
@@ -71,5 +73,9 @@ My name is Samuel von Zweigbergk and I'm a Software Developer and 2nd year stude
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vonzweigbergksamuel/vonzweigbergksamuel/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
