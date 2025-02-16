@@ -1,43 +1,26 @@
-<!--
-**vonzweigbergksamuel/vonzweigbergksamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello World! 👋
 
-Here are some ideas to get you started:
+My name is Samuel von Zweigbergk and I'm a Software Developer and 2nd year student, from Kalmar, Sweden. I'm passionate about creating software and web applications that are both user-friendly and visually appealing. I'm currently studying Web Development at Linnaeus University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hello World 👋
-
-My name is Samuel von Zweigbergk and I'm a Software Developer and 2nd year student, from Kalmar, Sweden.
+I'm also a part of "**Kodkollektivet i Kalmar**" which is a student organization that aims to create a community for students interested in programming and software development. We work on projects together, both our own and for local businesses,  and we also host events such as LAN-parties and the occasional hackathon.
 
 <br>
 
 ## About me
 
-💼 Currently working on my own 2d platformer game in the Godot Engine, and a few other projects. I'm also studying Web Development at Linnaeus University in Kalmar, Sweden.
+💼 Currently working on my own 2d platformer game in the Godot Engine.
 <br>
-
-📚 I'm currently learning GDScript and OAuth.
+📚 Studying Web Development at Linnaeus University in Kalmar, Sweden.
 <br>
-
-⚡ In my free time I like to go to the gym, watch movies and make websites for local businesses.
-
-<br>
+⚡ In my free time I like to go to the gym and watch movies.
 
 <p>
-<a target="_blank" href="https://www.linkedin.com/in/vonzweigbergksamuel">  <img src="https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+<a target="_blank" href="https://www.linkedin.com/in/vonzweigbergksamuel">  <img src="https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"  /></a>
 <a target="_blank" href="https://discordapp.com/users/605840898537947143">
-  <img src="https://img.shields.io/static/v1?message=discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
-<a target="_blank" href="https://www.instagram.com/vonzweigbergksamuel" style="display: inline-block;">  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
+  <img src="https://img.shields.io/static/v1?message=discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="discord logo"  /></a>
+<a target="_blank" href="https://www.instagram.com/vonzweigbergksamuel" style="display: inline-block;">  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo"  /></a>
 <a target="_blank" href="mailto:samuelvonzweigbergk.s@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"  /></a>
 </p>
 
 <br>
@@ -66,12 +49,6 @@ My name is Samuel von Zweigbergk and I'm a Software Developer and 2nd year stude
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-
-<br>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vonzweigbergksamuel&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vonzweigbergksamuel/vonzweigbergksamuel/output/github-snake-dark.svg" />
