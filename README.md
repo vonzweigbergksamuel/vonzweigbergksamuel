@@ -8,7 +8,7 @@ I'm also a part of "**Kodkollektivet i Kalmar**" which is a student organization
 
 ## About me
 
-💼 Currently working on my own 2d platformer game in the Godot Engine.
+💼 Currently working at Flowbic in Kalmar.
 <br>
 📚 Studying Web Development at Linnaeus University in Kalmar, Sweden.
 <br>
