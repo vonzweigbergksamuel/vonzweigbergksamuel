@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-My name is Samuel von Zweigbergk and I'm a Software Developer and 2nd year student, from Kalmar, Sweden. I'm passionate about creating software and web applications that are both user-friendly and visually appealing. I'm currently studying Web Development at Linnaeus University.
+My name is Samuel von Zweigbergk and I'm a Software Developer and 3nd year student, from Kalmar, Sweden. I'm passionate about creating software and web applications that are both user-friendly and visually appealing. I'm currently studying Web Development at Linnaeus University.
 
 I'm also a part of "**Kodkollektivet i Kalmar**" which is a student organization that aims to create a community for students interested in programming and software development. We work on projects together, both our own and for local businesses,  and we also host events such as LAN-parties and the occasional hackathon.
 
@@ -8,7 +8,7 @@ I'm also a part of "**Kodkollektivet i Kalmar**" which is a student organization
 
 ## About me
 
-💼 Currently working at Flowbic in Kalmar.
+💼 Currently working at Flowbic AB, a web development consulting company in Kalmar.
 <br>
 📚 Studying Web Development at Linnaeus University in Kalmar, Sweden.
 <br>
