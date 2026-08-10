@@ -40,6 +40,7 @@ At Codesquare, we build modern web applications and digital solutions for client
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js\&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-%23FF3E00.svg?style=for-the-badge\&logo=svelte\&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Payload CMS](https://img.shields.io/badge/PAYLOAD_CMS-23333?style=for-the-badge\&logo=payload-cms\&logoColor=white\&color=black)
